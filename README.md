@@ -31,7 +31,7 @@ Create a minimalistic To-Do List web application using HTML, CSS, and JavaScript
 ### How to Run:
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/chiragjagani/to-do-list.git
    ```
 
 2. Open the `index.html` file in a web browser.
@@ -51,7 +51,7 @@ Feel free to contribute by submitting pull requests. Bug fixes, enhancements, an
 This project is licensed under the [MIT License](LICENSE).
 
 ### Demo:
-[Provide a link to a live demo if applicable]
+[https://chiragjagani.github.io/To-Do-List-With-Local-Storage/]
 
 ---
 
